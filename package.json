@@ -1,5 +1,5 @@
 {
-  "name": "palindrome",
+  "name": "palindrome_a56z",
   "version": "0.1.0",
   "description": "Palindrome detector",
   "main": "index.js",
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/a56z/javascript_tests/issues"
   },
-  "homepage": "https://github.com/a56z/javascript_tests#readme"
+  "homepage": "https://github.com/a56z/javascript_tests#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mhartl-palindrome": "^0.2.3"
+  }
 }
